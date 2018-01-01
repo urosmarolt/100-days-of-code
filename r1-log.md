@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 Django intermediate video-examples. ORM and Django Admin customisation
 
 ### R1D2
+GraphQL and Graphene for Django - https://www.howtographql.com/graphql-python/
