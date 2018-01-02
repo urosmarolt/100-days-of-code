@@ -9,3 +9,6 @@ Django intermediate video-examples. ORM and Django Admin customisation
 
 ### R1D2
 GraphQL and Graphene for Django - https://www.howtographql.com/graphql-python/
+
+### R1D3
+GraphQL and Graphene for Django - Mutations, Authentication, Error Handling, Filtering
