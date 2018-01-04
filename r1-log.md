@@ -12,3 +12,6 @@ GraphQL and Graphene for Django - https://www.howtographql.com/graphql-python/
 
 ### R1D3
 GraphQL and Graphene for Django - Mutations, Authentication, Error Handling, Filtering
+
+### R1D4
+GraphQL and Graphene for Django - Mutations, Authentication, Error Handling, Filtering continued
