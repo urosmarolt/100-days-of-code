@@ -18,3 +18,12 @@ GraphQL and Graphene for Django - Mutations, Authentication, Error Handling, Fil
 
 ### R1D5
 GraphQL and Graphene for Django - Relay Framework
+
+### R1D6
+Pwa manifesto
+
+### R1D7
+PWA service worker
+
+### R1D8
+Django and TDD
